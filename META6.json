@@ -1,0 +1,23 @@
+{
+  "name": "raku-syntax-highlighter",
+  "description": "Simplistic syntax highlighter for Raku code fragments",
+  "version": "0.1",
+  "perl": "6.*",
+  "authors": [
+    "Richard Hainsworth"
+  ],
+  "auth": "fex:finanalyst",
+  "depends": [],
+  "build-depends": [],
+  "test-depends": [],
+  "provides": {
+    "SyntaxHighlighter": "lib/SyntaxHighlighter.rakumod"
+  },
+  "resources": [],
+  "support": {
+    "bugtracker": "https://github.com/finanalyst/raku-syntax-highlighter/issues",
+    "source": "https://github.com/finanalyst/raku-syntax-highlighter.git"
+  },
+  "license": "Artistic-2.0",
+  "source-url": "git://github.com/finanalyst/raku-syntax-highlighter.git"
+}

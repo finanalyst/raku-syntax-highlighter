@@ -1,0 +1,6 @@
+use v6.d;
+use Test;
+
+use-ok 'SyntaxHighlighter', 'can use module';
+
+done-testing;
